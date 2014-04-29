@@ -36,7 +36,7 @@ public class Solutions {
 				//System.out.println((i + 1));
 			}
 		}
-		System.out.println(sum);
+		System.out.println(sum);//test
 	}
 
 	private static boolean isAbundantNumber(int num){
