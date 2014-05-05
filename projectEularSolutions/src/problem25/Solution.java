@@ -5,7 +5,7 @@ import java.math.BigDecimal;
 public class Solution {
 
 	public static void main(String[] args) {
-		BigDecimal num1 = new BigDecimal(1);//tt
+		BigDecimal num1 = new BigDecimal(1);//t
 		BigDecimal num2 = new BigDecimal(1);
 		
 		char[] tmp = new char[1000];
